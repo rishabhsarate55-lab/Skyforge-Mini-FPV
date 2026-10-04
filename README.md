@@ -61,5 +61,14 @@ nRF24L01 Receiver
  Motor Mixing / PID
         ↓
     4-in-1 ESC
+## Project Design
+
+### Drone Hardware
+
+![SkyForge Mini FPV Drone](1000072591.jpg)
+
+### Custom Transmitter
+
+![SkyForge Mini FPV Transmitter](1000072592.jpg)
    ↓   ↓   ↓   ↓
   M1  M2  M3  M4
