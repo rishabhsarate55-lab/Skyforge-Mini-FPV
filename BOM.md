@@ -15,9 +15,6 @@
 | [SpeedyBee 1404 4500KV Brushless FPV Racing Drone Motor](https://indianrobostore.com) | Provides thrust for the quadcopter | 4 | $13.28 | $53.12 | [Indianrobostore](https://indianrobostore.com) |
 | [TATTU R-LINE V1.0 650mAh 95C 4S1P LiPo Battery with XT30 Plug](https://indianrobostore.com) | Powers the drone | 1 | $16.57 | $16.57 | [Indianrobostore](https://indianrobostore.com) |
 | [JHEMCU EM40A 4-in-1 40A ESC 2-6S BLHeli_S](https://fioparts.com) | Controls the four brushless motors | 1 | $33.32 | $33.32 | [Fioparts](https://fioparts.com) |
-| Motors: $53.12 | — | 1 | $0.00 | $0.00 | — |
-| Battery: $16.57 | — | 1 | $0.00 | $0.00 | — |
-| ESC: $33.32 | — | 1 | $0.00 | $0.00 | — |
 | **Parts subtotal** | — | — | — | **$103.01** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$103.01** | — |
