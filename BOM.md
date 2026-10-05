@@ -14,7 +14,6 @@
 | --- | --- | --- | --- | --- | --- |
 | [SpeedyBee 1404 4500KV Brushless FPV Racing Drone Motor](https://indianrobostore.com/product/speedybee-1404-4500kv-brushless-fpv-racing-drone-motor) | — | 4 | $0.00 | $0.00 | [Indian Robo Store](https://indianrobostore.com/product/speedybee-1404-4500kv-brushless-fpv-racing-drone-motor) |
 | [TATTU R-LINE V1.0 650mAh 95C 4S1P LiPo Battery with XT30 Plug](https://indianrobostore.com/product/tattu-r-line-v10-650mah-95c-4s1p-lipo-battery-with-xt30-plug-for-fpv-racing-drones) | — | 1 | $0.00 | $0.00 | [Indian Robo Store](https://indianrobostore.com/product/tattu-r-line-v10-650mah-95c-4s1p-lipo-battery-with-xt30-plug-for-fpv-racing-drones) |
-| [JHEMCU EM40A 4-in-1 40A ESC 2-6S BLHeli_S](https://fioparts.com/products/jhemcu-em40a-4-in-1-40a-esc-2-6s-blheli-s) | — | 1 | $0.00 | $0.00 | [FioParts](https://fioparts.com/products/jhemcu-em40a-4-in-1-40a-esc-2-6s-blheli-s) |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$0.00** | — |
